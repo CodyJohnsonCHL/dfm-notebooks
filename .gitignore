@@ -1,0 +1,8 @@
+download_proc_bathy/
+pontch_bathy/
+scaling_grid_optimization
+tidal_constituent_boundary_conditions/
+**/figures/
+**/output/
+**/input/
+**/data/
