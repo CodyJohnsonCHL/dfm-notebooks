@@ -6,3 +6,4 @@ tidal_constituent_boundary_conditions/
 **/output/
 **/input/
 **/data/
+*_params.yaml

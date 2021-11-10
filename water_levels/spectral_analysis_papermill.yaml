@@ -1,0 +1,26 @@
+---
+case: ""
+case_name: ""
+study: ""
+model_output_fn: ""
+
+begin_date: "YYYYMMDD"
+end_date: "YYYYMMDD"
+
+consts:
+  - "K1"
+  - "O1"
+  - "P1"
+  - "M2"
+  - "Q1"
+  - "S2"
+  - "S1"
+  - "Mf"
+  - "N2"
+  - "K2"
+  - "J1"
+  - "Mm"
+  - "M4"
+  - "Sa"
+  - "Ssa"
+...
