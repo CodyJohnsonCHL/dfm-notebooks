@@ -7,3 +7,4 @@ tidal_constituent_boundary_conditions/
 **/input/
 **/data/
 *_params.yaml
+**/scratch.ipynb
